@@ -324,9 +324,9 @@ function App() {
     else { audio.pause(); setPaused(true); }
   };
   const songs = [
+  'ElHobGany.mp3',
   'song.mp3',
-  'ashan_bhbk.mp3',
-  'ElHobGany.mp3'
+  'ashan_bhbk.mp3'
 ];
 
 const handleEnded = () => {
